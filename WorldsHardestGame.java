@@ -1,10 +1,9 @@
-//Tevin Stanley
-//December 8, 2017
-//TA: Lisa Vo and Courtney McKee
-//Assignment FINAL PROJECT: WorldsHardestGame.java
-//Game where player must make the red square reach the opposite side of the field
-//but must avoid the blue objects, or they must restart.
-//The controls for the movement are the 'W','A','S','D' keys.
+// Tevin Stanley
+// December 8, 2017
+//
+// Game where player must make the red square reach the opposite side of the field
+// but must avoid the blue objects, or they must restart.
+// The controls for the movement are the 'W','A','S','D' keys.
 import java.awt.*;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
